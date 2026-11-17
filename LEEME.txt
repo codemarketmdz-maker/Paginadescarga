@@ -1,0 +1,28 @@
+TIEMPOMDZ - PAGINA OFICIAL DE DESCARGA
+======================================
+
+CONTENIDO
+- index.html: página web adaptable a celulares y computadoras.
+- tiempomdz.apk: instalador Android proporcionado por el creador.
+- assets/: capturas de pantalla incluidas.
+
+DESCARGA
+El botón de la página descarga el archivo tiempomdz.apk incluido en esta carpeta.
+
+PUBLICACIÓN EN GITHUB PAGES
+1. Crear un repositorio público, por ejemplo tiempomdz-web.
+2. Subir el contenido de esta carpeta (index.html, tiempomdz.apk, LEEME.txt y assets/).
+3. En GitHub: Settings > Pages > Deploy from a branch > main > /(root).
+4. Esperar la publicación y compartir la URL que GitHub Pages indique.
+
+IMPORTANTE
+- El APK se incorporó tal como fue entregado; no fue recompilado ni modificado.
+- Antes de difundirlo masivamente, instalarlo y probarlo en un teléfono Android.
+- Android puede pedir autorización para instalar aplicaciones desde el navegador o gestor de archivos.
+- Para futuras actualizaciones, conservar la misma clave de firma del APK original; si se firma con otra clave, Android puede impedir la actualización directa.
+- La página informa una prueba Pro de 5 días y las opciones Básica y Pro, según la información comercial proporcionada.
+
+DATOS
+Marca: TiempoMDZ
+Creador: Codemarket
+WhatsApp: +54 9 261 511 7220
